@@ -1,6 +1,6 @@
 # Mobile-_Sales_Dashboard_Project
 ## Project Objective
-The objective of this project is to analyze mobile phone sales data to gain insights into:
+> The objective of this project is to analyze mobile phone sales data to gain insights into:
 * Overall sales trends (monthly, quarterly, yearly)
 * Sales performance by mobile model, brand, and payment method
 * Customer purchasing behavior
