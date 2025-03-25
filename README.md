@@ -47,10 +47,10 @@ Excel file
 * 4.4 Dashboard Creation
   * Used a BI tool to create visualizations.
   * Built multiple pages:
-#RRGGBB MTD (Month-to-Date) Report
-#RRGGBB Same Period Last Year Comparison
-#RRGGBB Monthly/Quarterly Trends
-#RRGGBB Breakdown by City, Brand, Payment Method
+`#RRGGBB` MTD (Month-to-Date) Report
+`#RRGGBB` Same Period Last Year Comparison
+`#RRGGBB` Monthly/Quarterly Trends
+`#RRGGBB` Breakdown by City, Brand, Payment Method
 * 4.5 Testing & Validation
   * Cross-checked sample data to ensure accuracy of measures and visuals.
   * Ensured filters and slicers worked as expected (e.g., by brand, city, date range).
