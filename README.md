@@ -13,7 +13,7 @@ Excel file
 ## Questions (KPIs)
 The dashboard aims to answer the following key performance questions:
 -Total Sales
-o	How much revenue is generated overall?
+  -How much revenue is generated overall?
 o	Which months or quarters see the highest sales?
 -Total Quantity
 o	How many units were sold in a given period?
