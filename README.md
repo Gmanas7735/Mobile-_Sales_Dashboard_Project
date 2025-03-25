@@ -5,6 +5,7 @@ The objective of this project is to analyze mobile phone sales data to gain insi
 * Sales performance by mobile model, brand, and payment method
 * Customer purchasing behavior
 * Key metrics like total quantity, average price, and total transactions
+  
 _By visualizing these insights in a dashboard, stakeholders can make data-driven decisions on inventory management, marketing strategies, and customer engagement._
 
 ## Dataset Used
