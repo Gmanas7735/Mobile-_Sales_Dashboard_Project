@@ -37,7 +37,7 @@ _By visualizing these insights in a dashboard, stakeholders can make data-driven
 
 ## Process
 * 4.1 Data Collection
-  * Gathered sales records from EXCEL FILE.
+  * Gathered sales records from local stores [Mobile_Dataset.xlsx](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/Mobile%20Sales%20Data.xlsx).
 * 4.2 Data Cleaning & Preparation
   * Removed duplicates, handled missing values.
   * Converted date fields to proper date/time format.
