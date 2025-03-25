@@ -74,7 +74,7 @@ _By visualizing these insights in a dashboard, stakeholders can make data-driven
   * Total Sales & Same Period Last Year by Months 
   * Card (Total Sale, Total Quantity, Transactions, Average Price)
   * Slicer (Mobile model, Payment Method, Date)
-* (For example:)
+> (For example:)
 ![Overview Dashboard](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/Dashboard.png)
 
 ![MTD Report](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/MTD.png)
@@ -103,4 +103,3 @@ _By visualizing these insights in a dashboard, stakeholders can make data-driven
 * Next Steps:
   * 1.	Expand the dataset to include additional metrics like warranty claims, store-level data, and customer demographics.
   * 2.	Enhance the customer feedback loop to improve after-sales service and product quality.
-
