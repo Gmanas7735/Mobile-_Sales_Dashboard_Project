@@ -9,7 +9,7 @@
 _By visualizing these insights in a dashboard, stakeholders can make data-driven decisions on inventory management, marketing strategies, and customer engagement._
 
 ## Dataset Used
-[Mobile Sales Data.xlsx]
+[Mobile_Dataset](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/Mobile%20Sales%20Data.xlsx)
 
 ## Questions (KPIs)
 > The dashboard aims to answer the following key performance questions:
