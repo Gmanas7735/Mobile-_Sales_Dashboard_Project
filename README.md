@@ -12,27 +12,13 @@ Excel file
 
 ## Questions (KPIs)
 The dashboard aims to answer the following key performance questions:
--Total Sales
-  -How much revenue is generated overall?
-o	Which months or quarters see the highest sales?
--Total Quantity
-o	How many units were sold in a given period?
-o	Which brand or model has the highest quantity sold?
--Transactions
-o	How many transactions occur over time?
-o	Which payment method is most popular?
--Average Price
-o	What is the average price of the products sold over time?
-o	How does pricing vary by brand or model?
--Sales by City
-o	Which cities have the highest sales?
-o	Is there a regional trend or pattern in purchases?
--Payment Methods
-o	What are the most commonly used payment methods?
-o	Do certain payment methods correlate with higher sales?
--Top Customer Ratings and Status by percentage
-o	How satisfied are customers overall?
-o	Which models or brands receive the highest ratings?
+-Total Sales (How much revenue is generated overall?, Which months or quarters see the highest sales?)
+-Total Quantity (How many units were sold in a given period?, Which brand or model has the highest quantity sold?)
+-Transactions (How many transactions occur over time?, Which payment method is most popular?)
+-Average Price (What is the average price of the products sold over time?, How does pricing vary by brand or model?)
+-Sales by City (Which cities have the highest sales?, Is there a regional trend or pattern in purchases?)
+-Payment Methods (What are the most commonly used payment methods?, Do certain payment methods correlate with higher sales?)
+-Top Customer Ratings and Status by percentage (How satisfied are customers overall?, Which models or brands receive the highest ratings?)
 
 ## Process
 -4.1 Data Collection
