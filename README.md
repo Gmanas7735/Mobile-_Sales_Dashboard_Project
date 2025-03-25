@@ -74,31 +74,33 @@ _By visualizing these insights in a dashboard, stakeholders can make data-driven
   * Total Sales & Same Period Last Year by Months 
   * Card (Total Sale, Total Quantity, Transactions, Average Price)
   * Slicer (Mobile model, Payment Method, Date)
-(For example:)
+* (For example:)
 ![Overview Dashboard](images/overview.png)
+
 ![MTD Report](images/mtd_report.png)
+
 ![Breakdown Page](images/breakdown.png)
 
 ## Project Insights
--Sales Growth
-o	Identified steady growth in sales from Q1 to Q4, with peak sales in Q4.
--Top Brands & Models
-o	Brand Apple, Samsung, OnePlus consistently outperforms other brands in terms of total sales.
-o	Model iPhone SE, OnePlus Nord, Galaxy Note 20 remains the best-selling product in multiple cities.
--City Performance
-o	Metropolitan areas show higher average purchase value, while smaller cities contribute a substantial volume of sales.
--Payment Method Preferences
-o	UPI payment slightly higher than the Debit and credit Card.
-o	Cash transactions are more common in rural or suburban regions.
--Customer Ratings
-o	Overall rating trend is positive, with minimal negative feedback.
-o	Higher-priced models receive more mixed reviews, suggesting a need for better after-sales support or improved features.
--Seasonality
-o	Notable spikes in sales during holiday seasons and product launch periods.
+* Sales Growth
+  * Identified steady growth in sales from Q1 to Q4, with peak sales in Q4.
+* Top Brands & Models
+  * Brand Apple, Samsung, OnePlus consistently outperforms other brands in terms of total sales.
+  * Model iPhone SE, OnePlus Nord, Galaxy Note 20 remains the best-selling product in multiple cities.
+* City Performance
+  * Metropolitan areas show higher average purchase value, while smaller cities contribute a substantial volume of sales.
+* Payment Method Preferences
+  * UPI payment slightly higher than the Debit and credit Card.
+  * Cash transactions are more common in rural or suburban regions.
+* Customer Ratings
+  * Overall rating trend is positive, with minimal negative feedback.
+  * Higher-priced models receive more mixed reviews, suggesting a need for better after-sales support or improved features.
+* Seasonality
+  * Notable spikes in sales during holiday seasons and product launch periods.
 
 ## Final Conclusion
-Business Impact: The insights derived from this dashboard help stakeholders understand where to allocate marketing budgets, manage inventory more efficiently, and tailor promotions for high-demand periods.
--Next Steps:
-1.	Expand the dataset to include additional metrics like warranty claims, store-level data, and customer demographics.
-2.	Enhance the customer feedback loop to improve after-sales service and product quality.
+### Business Impact: The insights derived from this dashboard help stakeholders understand where to allocate marketing budgets, manage inventory more efficiently, and tailor promotions for high-demand periods.
+* Next Steps:
+  * 1.	Expand the dataset to include additional metrics like warranty claims, store-level data, and customer demographics.
+  * 2.	Enhance the customer feedback loop to improve after-sales service and product quality.
 
