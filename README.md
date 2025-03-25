@@ -11,7 +11,6 @@ By visualizing these insights in a dashboard, stakeholders can make data-driven 
 Excel file
 
 ## Questions (KPIs)
-The dashboard aims to answer the following key performance questions:
 -Total Sales (How much revenue is generated overall?, Which months or quarters see the highest sales?)
 -Total Quantity (How many units were sold in a given period?, Which brand or model has the highest quantity sold?)
 -Transactions (How many transactions occur over time?, Which payment method is most popular?)
