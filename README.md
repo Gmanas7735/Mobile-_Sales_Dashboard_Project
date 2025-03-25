@@ -76,7 +76,9 @@ _By visualizing these insights in a dashboard, stakeholders can make data-driven
   * Slicer (Mobile model, Payment Method, Date)
 * (For example:)
 ![Overview Dashboard]([images/overview.png](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/Dashboard.png)
+
 ![MTD Report]([images/mtd_report.png](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/MTD.png)
+
 ![Same Period Last Year Page](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/SPLY.png)
 
 ## Project Insights
