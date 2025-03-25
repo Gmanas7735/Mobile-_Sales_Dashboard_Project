@@ -12,11 +12,17 @@ Excel file
 
 ## Questions (KPIs)
 -Total Sales (How much revenue is generated overall?, Which months or quarters see the highest sales?)
+
 -Total Quantity (How many units were sold in a given period?, Which brand or model has the highest quantity sold?)
+
 -Transactions (How many transactions occur over time?, Which payment method is most popular?)
+
 -Average Price (What is the average price of the products sold over time?, How does pricing vary by brand or model?)
+
 -Sales by City (Which cities have the highest sales?, Is there a regional trend or pattern in purchases?)
+
 -Payment Methods (What are the most commonly used payment methods?, Do certain payment methods correlate with higher sales?)
+
 -Top Customer Ratings and Status by percentage (How satisfied are customers overall?, Which models or brands receive the highest ratings?)
 
 ## Process
