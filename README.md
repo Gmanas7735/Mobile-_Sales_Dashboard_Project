@@ -1,11 +1,11 @@
 # Mobile-_Sales_Dashboard_Project
 ## Project Objective
 The objective of this project is to analyze mobile phone sales data to gain insights into:
-•	Overall sales trends (monthly, quarterly, yearly)
-•	Sales performance by mobile model, brand, and payment method
-•	Customer purchasing behavior
-•	Key metrics like total quantity, average price, and total transactions
-By visualizing these insights in a dashboard, stakeholders can make data-driven decisions on inventory management, marketing strategies, and customer engagement.
+* Overall sales trends (monthly, quarterly, yearly)
+* Sales performance by mobile model, brand, and payment method
+* Customer purchasing behavior
+* Key metrics like total quantity, average price, and total transactions
+_By visualizing these insights in a dashboard, stakeholders can make data-driven decisions on inventory management, marketing strategies, and customer engagement._
 
 ## Dataset Used
 Excel file
