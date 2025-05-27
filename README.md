@@ -75,7 +75,7 @@ _By visualizing these insights in a dashboard, stakeholders can make data-driven
   * Card (Total Sale, Total Quantity, Transactions, Average Price)
   * Slicer (Mobile model, Payment Method, Date)
 > (For example:)
-![Overview Dashboard](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/Dashboard.png)
+![Dashboard](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/Dashboard.png)
 
 ![MTD Report](https://github.com/Gmanas7735/Mobile-_Sales_Dashboard_Project/blob/main/MTD.png)
 
